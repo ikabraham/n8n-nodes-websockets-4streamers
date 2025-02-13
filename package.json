@@ -34,6 +34,8 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "nodes": [
+      "dist/nodes/WebsocketsNode/WebsocketsTriggerNode.node.js",
+      "dist/nodes/WebsocketsNode/WebsocketsReplyNode.node.js",
       "dist/nodes/WebsocketsNode/src/nodes/WebSocketStream.node.ts"
     ]
   },
